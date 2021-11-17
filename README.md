@@ -26,5 +26,7 @@ https://www.bloomberg.com/news/videos/2020-01-09/the-man-who-beat-horse-racing-a
 - Models for the following scenarios are explored:
 
 **PGA Round-2: 3-ball head-to-head winner prediction:**
+
 **PGA Round-2: 3-ball head-to-head winner prediction:**
+
 **EUR Round-3&4: 2-ball head-to-head winner prediction:**
